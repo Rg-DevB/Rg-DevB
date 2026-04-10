@@ -116,7 +116,10 @@ fun_fact: "I love turning complex problems into simple and elegant solutions ⚡
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rg-DevB&theme=tokyo-night&hide_border=true)](https://github.com/Rg-DevB)
+
 
 <div align="center">
 
@@ -124,17 +127,6 @@ fun_fact: "I love turning complex problems into simple and elegant solutions ⚡
 ![snake light](https://raw.githubusercontent.com/Rg-DevB/Rg-DevB/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </div>
-
----
-
-## 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rg-DevB&theme=tokyo-night&hide_border=true)](https://github.com/Rg-DevB)
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rg-DevB/Rg-DevB/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 ---
 
