@@ -13,7 +13,7 @@
 </h1>
 
 
-- 🔭 I'm currently working on **Building scalable web applications **
+- 🔭 I'm currently working on **Building scalable web applications**
 
 - 🌱 I'm currently learning **GraphQL, TypeScript, Laravel, Rest API, Java, Angular, Vue-Js, Next-Js and system design principles**
 
