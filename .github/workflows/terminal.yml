@@ -1,0 +1,29 @@
+name: Terminal Animation
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  terminal:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate terminal
+        run: |
+          echo "<svg xmlns='http://www.w3.org/2000/svg' width='600' height='120' style='background:#000; color:#00F7FF; font-family:monospace;'>
+          <text x='20' y='40' fill='#00F7FF'>> scanning repos...</text>
+          <text x='20' y='70' fill='#00F7FF'>> loading activity...</text>
+          <text x='20' y='100' fill='#00F7FF'>> Rg-DevB status: ACTIVE</text>
+          </svg>" > terminal.svg
+
+      - name: Commit
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add terminal.svg
+          git commit -m "Update terminal animation" || echo "No changes"
+          git push
