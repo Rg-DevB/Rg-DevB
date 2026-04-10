@@ -1,11 +1,10 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer" />
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;💻+Software+Developer+in+progress;⚡+Building+scalable+applications;🧠+Clean+Code+%7C+Clean+Architecture;🌍+Turning+Ideas+into+Reality" />
-</h1>  
-
-
-<!-- LATEST_PROJECTS -->
-
-
+</h1> 
 
 ### Hi 👋, I'm Rody Bints  | Software developper
 
@@ -26,13 +25,49 @@
 
 - ⚡ Fun fact **I love turning complex problems into simple and elegant solutions**
 
-<h3 align="left">Connect with me:</h3>
+
+### 🌐 Connect with me
 
 <p align="left">
-<a href="https://github.com/Rg-DevB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Rg-DevB" height="30" width="40" /></a>
+  <a href="https://github.com/Rg-DevB" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="30"width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages :</h3>
+---
+### 🔥 Latest Projects  
+*(Auto‑updated)*  
+<!-- LATEST_PROJECTS -->
+
+---
+
+### 🧠 Weekly Dev Stats  
+*(Auto‑updated)*  
+<!-- WEEKLY_STATS -->
+
+---
+
+### 🧬 Tech Stack Analysis  
+*(Auto‑updated)*  
+<!-- TECH_STACK -->
+
+---
+### 🛰️ Dynamic Badges  
+*(Auto‑updated)*  
+<!-- BADGES -->
+
+---
+
+### 🧩 Terminal Hacker Animation  
+*(Auto‑updated)*
+
+<p align="center">
+  <img src="./terminal.svg" />
+</p>
+
+---
+
+# <h3 align="left">Languages :</h3>
 
 
 <p align="left"> 
@@ -65,7 +100,7 @@
   <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
 
 
-<h3 align="left">Tools :</h3>
+# <h3 align="left">Tools :</h3>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> 
  <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> 
@@ -77,7 +112,7 @@
   <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/> </a> 
   
 
- <h3 align="left">Databases :</h3>
+# <h3 align="left">Databases :</h3>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> 
   <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> 
@@ -86,14 +121,19 @@
   <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> </p>
 
 
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rg-DevB&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rg-DevB&show_icons=true&theme=tokyonight" />
+</p>
 
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rg-DevB&" alt="Rg-DevB" /></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rg-DevB/Rg-DevB/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
-
