@@ -1,0 +1,28 @@
+name: Dynamic Badges
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+
+jobs:
+  badges:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate badges
+        run: |
+          repos=$(curl -s https://api.github.com/users/Rg-DevB | jq '.public_repos')
+          followers=$(curl -s https://api.github.com/users/Rg-DevB | jq '.followers')
+          echo "![Repos](https://img.shields.io/badge/Repos-$repos-blue)" > badges.md
+          echo "![Followers](https://img.shields.io/badge/Followers-$followers-success)" >> badges.md
+
+      - name: Commit
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add badges.md
+          git commit -m "Update dynamic badges" || echo "No changes"
+          git push
