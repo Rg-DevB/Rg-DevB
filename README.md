@@ -131,6 +131,11 @@ fun_fact: "I love turning complex problems into simple and elegant solutions ⚡
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rg-DevB&theme=tokyo-night&hide_border=true)](https://github.com/Rg-DevB)
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rg-DevB/Rg-DevB/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 ---
 
 <div align="center">
@@ -143,78 +148,4 @@ fun_fact: "I love turning complex problems into simple and elegant solutions ⚡
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer" />
-</p>
-
-
-
-## <h3 align="left"> 🛠️ Tech Stack :</h3>
-
-
-<p align="left"> 
-    
-  <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> 
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> 
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> 
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> 
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> 
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> 
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> 
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> 
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> 
-  <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
-
-
-# <h3 align="left">Tools :</h3>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> 
- <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> 
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> 
-  <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> 
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/graphql" target="_blank" rel="noreferrer"> 
-  <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/> </a> 
-  
-
-# <h3 align="left">Databases :</h3>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> 
-  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> 
- 
-<a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> 
-  <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rg-DevB&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rg-DevB&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rg-DevB/Rg-DevB/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
