@@ -1,0 +1,19 @@
+name: 💬 Dev Quote of the Day
+
+on:
+  schedule:
+    - cron: "0 8 * * *"   # Tous les jours à 8h du matin
+  workflow_dispatch:        # Déclenchement manuel possible
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Update Dev Quote in README
+        uses: shravan20/github-readme-quotes@latest
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          category: "programming"   # Options: programming, life, motivational
