@@ -38,7 +38,6 @@
 ### 🔥 Latest Projects  
 <!-- LATEST_PROJECTS -->
 
-
 ---
 
 ### 🧠 Weekly Dev Stats  
