@@ -1,0 +1,5 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='600' height='120' style='background:#000; color:#00F7FF; font-family:monospace;'>
+<text x='20' y='40' fill='#00F7FF'>> scanning repos...</text>
+<text x='20' y='70' fill='#00F7FF'>> loading activity...</text>
+<text x='20' y='100' fill='#00F7FF'>> Rg-DevB status: ACTIVE</text>
+</svg>
