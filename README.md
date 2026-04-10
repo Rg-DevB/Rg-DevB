@@ -36,32 +36,26 @@
 
 ---
 ### 🔥 Latest Projects  
-*(Auto‑updated)*  
 <!-- LATEST_PROJECTS -->
 
 
 ---
 
 ### 🧠 Weekly Dev Stats  
-*(Auto‑updated)*  
 <!-- WEEKLY_STATS -->
 
 ---
 
 ### 🧬 Tech Stack Analysis  
-*(Auto‑updated)*  
 <!-- TECH_STACK -->
 
 ---
 ### 🛰️ Dynamic Badges  
-*(Auto‑updated)*  
 <!-- BADGES -->
 
 ---
 
 ### 🧩 Terminal Hacker Animation  
-*(Auto‑updated)*
-
 <p align="center">
   <img src="./terminal.svg" />
 </p>
