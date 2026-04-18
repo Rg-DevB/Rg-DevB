@@ -40,54 +40,48 @@ fun_fact: "I love turning complex problems into simple and elegant solutions ⚡
 ## 🛠️ Tech Stack
 
 ### Languages
+
 <p align="left"> 
-    
-  <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> 
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> 
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=css" width="45" />
+  <img src="https://skillicons.dev/icons?i=html" width="45" />
+  <img src="https://skillicons.dev/icons?i=js" width="45" />
+  <img src="https://skillicons.dev/icons?i=php" width="45" />
+  <img src="https://skillicons.dev/icons?i=java" width="45" />
+  <img src="https://skillicons.dev/icons?i=python" width="45" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="45" />
+  <img src="https://skillicons.dev/icons?i=ts" width="45" />
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> 
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> 
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> 
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> 
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> 
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> 
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> 
-  <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a>
 </p>
 
-
 ### <h3 align="left"> Frameworks & Tools </h3>
-<a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> 
- <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> 
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> 
-  <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> 
+<p align="left"> 
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/graphql" target="_blank" rel="noreferrer"> 
-  <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/> </a> 
+  <!-- Frameworks -->
+  <img src="https://skillicons.dev/icons?i=laravel" width="45" />
+  <img src="https://skillicons.dev/icons?i=vue" width="45" />
+  <img src="https://skillicons.dev/icons?i=angular" width="45" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="45" />
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git" width="45" />
+  <img src="https://skillicons.dev/icons?i=github" width="45" />
+  <img src="https://skillicons.dev/icons?i=postman" width="45" />
+  <img src="https://skillicons.dev/icons?i=graphql" width="45" />
+  
+</p>
 
 ### <h3 align="left"> Databases </h3>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> 
-  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> 
- 
-<a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> 
-  <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> </p>
+<p align="left"> 
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql" width="45" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="45" />
+  
+</p>
 
 
 ---
