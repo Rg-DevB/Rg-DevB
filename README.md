@@ -1,8 +1,3 @@
-## 🚀 Mes projets (Portfolio)
-
-<!--START_SECTION:projects-->
-<!--END_SECTION:projects-->
-
 <div align="center">
 
  <h1 align="center">
