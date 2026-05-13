@@ -22,7 +22,7 @@ jobs:
           echo "## 🚀 My Projects" > projects.md
           echo "" >> projects.md
 
-          cat repos.json | jq -r '.[] | "- 🔗 [\(.name)](\(.html_url)) : \(.description // "Pas de description")"' >> projects.md
+          cat repos.json | jq -r '.[] | "### 🚀 [\(.name)](\(.html_url))\n\(.description // "Pas de description")\n"'
 
       - name: Inject into README
         run: |
