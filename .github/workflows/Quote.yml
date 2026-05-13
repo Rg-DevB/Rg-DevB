@@ -13,4 +13,6 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Update Dev Quote in README
-        uses: shravan20/github-readme-quotes@v1.0.4
+        uses: shravan20/github-readme-quotes@main
+
+       
