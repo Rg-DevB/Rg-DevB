@@ -39,66 +39,29 @@ fun_fact: "I love turning complex problems into simple and elegant solutions ⚡
 
 ## 🛠️ Tech Stack
 
-### Languages
-
-<p align="left"> 
-
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=css" width="45" />
-  <img src="https://skillicons.dev/icons?i=html" width="45" />
-  <img src="https://skillicons.dev/icons?i=js" width="45" />
-  <img src="https://skillicons.dev/icons?i=php" width="45" />
-  <img src="https://skillicons.dev/icons?i=java" width="45" />
-  <img src="https://skillicons.dev/icons?i=python" width="45" />
-  <img src="https://skillicons.dev/icons?i=cpp" width="45" />
-  <img src="https://skillicons.dev/icons?i=ts" width="45" />
-
-</p>
-
-### <h3 align="left"> Frameworks & Tools </h3>
-
-<p align="left"> 
-
-  <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=laravel" width="45" />
-  <img src="https://skillicons.dev/icons?i=vue" width="45" />
-  <img src="https://skillicons.dev/icons?i=angular" width="45" />
-  <img src="https://skillicons.dev/icons?i=nextjs" width="45" />
-
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git" width="45" />
-  <img src="https://skillicons.dev/icons?i=github" width="45" />
-  <img src="https://skillicons.dev/icons?i=postman" width="45" />
-  <img src="https://skillicons.dev/icons?i=graphql" width="45" />
-  
-</p>
-
-### <h3 align="left"> Databases </h3>
-
-<p align="left"> 
-
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql" width="45" />
-  <img src="https://skillicons.dev/icons?i=postgres" width="45" />
-  
-</p>
-
+| <h3 align="center"> Languages </h3> | <h3 align="center"> Frameworks & Tools </h3> | <h3 align="center"> Databases </h3> |
+| :---: | :---: | :---: |
+|       |
+| <img src="https://skillicons.dev/icons?i=css,html,js,php,java,python,cpp,ts" /> | <img src="https://skillicons.dev/icons?i=laravel,angular,git,github,postman,graphql" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /> |
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rg-DevB&theme=tokyonight" />
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rg-DevB&theme=tokyonight" />
+     </p>
+    </td>
+    <td>
+      <p align="center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Rg-DevB&show_icons=true&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rg-DevB&show_icons=true&theme=tokyonight" />
-</p>
-
-</div>
+    </td>
+  </tr>
+</table>
 
 ---
 
