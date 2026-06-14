@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;🚀+AI+Engineer+in+progress;💻+Software+Developer;⚡+Building+scalable+applications;🧠+Clean+Code+%7C+Clean+Architecture;🌍+Turning+Ideas+into+Reality" />
 </h1> 
 
-### Hi 👋, I'm Rody Bints  | AI Engineer | Software Developer | - Building things that matter
+### Hi 👋, I'm Rody Bints  | AI Engineer | Software Engineer  | - Building things that matter
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&height=70&lines=Rg-DevB+-+Crafting+Clean+%26+Modern+Code;Passionate+about+Laravel+%7C+Java+%7C+Python+%7C+Java+%7C;Tech+%7C++Code.+Build.+Innovate.+Vibes" /> 
