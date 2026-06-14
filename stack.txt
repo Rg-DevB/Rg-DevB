@@ -1,4 +1,5 @@
       8 TypeScript
       7 null
       3 PHP
+      1 Python
       1 Blade
