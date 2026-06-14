@@ -1,7 +1,7 @@
 <div align="center">
 
  <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;🚀+AI+Engineer+in+progress;💻+Software+Developer;⚡+Building+scalable+applications;🧠+Clean+Code+%7C+Clean+Architecture;🌍+Turning+Ideas+into+Reality" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;🚀+AI+Engineer+in+progress;💻+Software+Engineer;⚡+Building+scalable+applications;🧠+Clean+Code+%7C+Clean+Architecture;🌍+Turning+Ideas+into+Reality" />
 </h1> 
 
 ### Hi 👋, I'm Rody Bints  | AI Engineer | Software Engineer  | - Building things that matter
