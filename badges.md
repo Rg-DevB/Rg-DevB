@@ -1,2 +1,2 @@
-![Repos](https://img.shields.io/badge/Repos-20-blue)
+![Repos](https://img.shields.io/badge/Repos-17-blue)
 ![Followers](https://img.shields.io/badge/Followers-8-success)
