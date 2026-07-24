@@ -75,7 +75,7 @@ fun_fact: "I love turning complex problems into simple and elegant solutions ⚡
 
 ## 📈 Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rg-DevB&theme=tokyo-night&hide_border=true)](https://github.com/Rg-DevB)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheAmazingBuilder&theme=tokyo-night&hide_border=true)](https://github.com/TheAmazingBuilder)
 
 
 <div align="center">
@@ -89,7 +89,7 @@ fun_fact: "I love turning complex problems into simple and elegant solutions ⚡
 
 <div align="center">
 
-  ![Profile views](https://komarev.com/ghpvc/?username=Rg-DevB&color=1a8cff&style=flat-square)
+  ![Profile views](https://komarev.com/ghpvc/?username=TheAmazingBuilder&color=1a8cff&style=flat-square)
 
   *"First, solve the problem. Then, write the code."* — John Johnson
 
