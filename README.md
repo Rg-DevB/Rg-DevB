@@ -52,12 +52,12 @@ fun_fact: "I love turning complex problems into simple and elegant solutions ⚡
   <tr>
     <td>
       <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rg-DevB&theme=tokyonight" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheAmazingBuilder&theme=tokyonight" />
      </p>
     </td>
     <td>
       <p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Rg-DevB&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=TheAmazingBuilder&show_icons=true&theme=tokyonight" />
 </p>
     </td>
   </tr>
